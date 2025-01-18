@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @JuitoMG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hola compañero/a! Me llamo Juan
 
-<!---
-JuitoMG/JuitoMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+Amante de la tecnologia que ha decidido encontrar todas las respuestas en la programación. Desde hoy y para siempre, en formación contínua. Abierto a colaborar y seguir aprendiendo.
+
+Actualmente busco especializarme en lenguaje Python, pero eso no impide que esté explorando otros territorios, como Swift o Java. 
+
